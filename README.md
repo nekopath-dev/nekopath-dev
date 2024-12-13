@@ -27,8 +27,6 @@ I am a student at the Faculty of Informatics, Hiroshima Institute of Technology.
 <!-- 使用：https://zenn.dev/yutakatay/articles/kirakira-github-profile -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekopath-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 使用　https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/0-profile-details.svg)
 
 <!--
 **nekopath-dev/nekopath-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
