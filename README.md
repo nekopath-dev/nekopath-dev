@@ -3,7 +3,8 @@
 -->
 ## Hi there 👋
 
-I am a student at the Faculty of Informatics, Hiroshima Institute of Technology.
+I am currently enrolled in the graduate school at Hosei University. I have a strong interest in generative AI and am looking to do an internship in the IT engineering field.
+Thank you in advance.
 
 <!-- 使用：https://zenn.dev/yutakatay/articles/kirakira-github-profile -->
 <p align="left">
