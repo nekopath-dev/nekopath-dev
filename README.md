@@ -11,7 +11,7 @@ Thank you in advance.
   <a href="https://github.com/nekopath-dev/nekopath-dev/">
     <img src="https://komarev.com/ghpvc/?username=nekopath-dev" alt="yutkat" />
   </a>
-  <a href="http://x.com/nekopath_dev">
+  <a href="http://x.com/tanasuke_fw">
     <img height="20" src="https://img.shields.io/twitter/follow/nekopath_dev?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/nekopath-dev">
