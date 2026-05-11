@@ -25,9 +25,6 @@ Thank you in advance.
   </a>
 </p>
 
-<!-- 使用：https://zenn.dev/yutakatay/articles/kirakira-github-profile -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekopath-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **nekopath-dev/nekopath-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
