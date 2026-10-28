@@ -13,7 +13,7 @@ A graduate student at Hosei University who learns by building — from IoT toys 
   <a href="https://fuwalief.com"><img src="https://img.shields.io/badge/Fuwalief-F49AC1?style=for-the-badge&logoColor=white" alt="Fuwalief" /></a>
   <a href="https://x.com/tanasuke_fw"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://qiita.com/nekopath"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
-  <a href="https://note.com/tanasuke_ai"><img src="https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white" alt="note" /></a>
+  <a href="https://note.com/lamne_blog"><img src="https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white" alt="note" /></a>
 </p>
 
 ### 🙋 About me
